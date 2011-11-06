@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class FileManager {
+public class DescriptionLoader {
 
 	static void readFile(String filePath,
-			ArrayList<BoutonTactile> listeDesBoutons) {
+			ArrayList<TouchButton> listeDesBoutons) {
 		Scanner scanner;
 
 		try {
@@ -27,7 +27,7 @@ public class FileManager {
 
 				while (scannerChamps.hasNext()) {
 
-					listeDesBoutons.add(new BoutonTactile(scannerChamps
+					listeDesBoutons.add(new TouchButton(scannerChamps
 							.nextInt(), scannerChamps.nextInt(), scannerChamps
 							.nextInt(), scannerChamps.nextInt(), scannerChamps
 							.next(), scannerChamps.next()));
