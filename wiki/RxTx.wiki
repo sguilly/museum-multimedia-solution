@@ -1,0 +1,7 @@
+Utilisation de RxTx 
+
+http://rxtx.qbang.org/wiki/index.php/Main_Page
+
+Version 64 bits :
+
+http://www.cloudhopper.com/opensource/rxtx/
