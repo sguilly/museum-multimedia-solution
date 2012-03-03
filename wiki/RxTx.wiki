@@ -2,6 +2,9 @@ Utilisation de RxTx
 
 http://rxtx.qbang.org/wiki/index.php/Main_Page
 
+put rxtxparallel.dll and rxtxserial.dll into c:/program files/java/jdk1.5.0_02/jre/bin
+put rxtxcomm.jar into c:/program files/java/jdk1.5.0_02/jre/lib/ext
+
 Version 64 bits :
 
 http://www.cloudhopper.com/opensource/rxtx/
