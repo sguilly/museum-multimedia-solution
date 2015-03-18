@@ -1,0 +1,1 @@
+Offer visitors a fun way to discover objects in a museum.
